@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* removed benefit-brand and benefit cost classes and combined styles into benefit-lead */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
