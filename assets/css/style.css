@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* organized to follow semantic structure */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* removed online .online-reputation-management and social-media-marketing classes and combined styles into search-engine-optimization */
+/* removed online-reputation-management and social-media-marketing classes and combined styles into search-engine-optimization */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -84,11 +84,11 @@ p {
     color: #ffffff;
 }
 
-/* removed online .online-reputation-management and social-media-marketing classes and combined styles into search-engine-optimization */
+/* removed online-reputation-management and social-media-marketing classes and combined styles into search-engine-optimization */
 .search-engine-optimization img {
     max-height: 200px;
 }
-/* removed online .online-reputation-management and social-media-marketing classes and combined styles into search-engine-optimization */
+/* removed online-reputation-management and social-media-marketing classes and combined styles into search-engine-optimization */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
