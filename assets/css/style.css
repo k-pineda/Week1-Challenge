@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* consolidated padding declaration to one new rule */
+/* consolidated padding: 20px declaration to one new rule */
 .header,
 .benefits {
     padding: 20px; 
