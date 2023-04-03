@@ -15,7 +15,7 @@ body {
 }
 /* consolidated color: #ffffff declaration to one new rule */
 .header,
-.a, 
+a, 
 .search-engine-optimization,
 .benefit-lead {
     color: #ffffff; 
