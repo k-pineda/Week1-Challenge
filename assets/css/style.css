@@ -8,8 +8,13 @@ body {
     background-color: #d9dcd6;
 }
 
+/* consolidated padding declaration to one new rule */
+.header,
+.benefits {
+    padding: 20px; 
+}
+
 .header {
-    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -95,7 +100,6 @@ p {
 }
 .benefits {
     margin-right: 20px;
-    padding: 20px;
     clear: both;
     float: right;
     width: 20%;
