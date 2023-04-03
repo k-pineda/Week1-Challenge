@@ -34,12 +34,18 @@ body {
     color: #d9dcd6;
 }
 
+/* consolidated font-size: 20px declaration to one new rule */
+.header div,
+.footer h2 {
+
+    font-size: 20px;
+}
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
 }
 
 .header div ul {
@@ -134,8 +140,4 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
