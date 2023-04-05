@@ -36,7 +36,7 @@ body {
 
 /* consolidated font-size: 20px declaration to one new rule */
 .header nav,
-.footer h2 {
+footer h2 {
 
     font-size: 20px;
 }
@@ -135,7 +135,7 @@ p {
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
