@@ -13,10 +13,8 @@ To use this webpage, at the top right hand side are navigational links to three 
 ![Main content and aside info](./assets/images/Screenshot%202023-04-06%20152127.png)
 ![Footer content](./assets/images/Screenshot%202023-04-06%20152237.png)
 
+[Tips on Search Engine Reputation Management Webpage](https://k-pineda.github.io/Week1-Challenge-Repo/)
+
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[Challenge 1 Repo](https://github.com/k-pineda/Week1-Challenge-Repo.git)
