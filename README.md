@@ -7,7 +7,7 @@ This webpage was created to provide tips and background information on search en
 
 ## Usage
 
-To use this webpage, at the top right hand side are navigational links to three different concepts. When clicking on a topic, the browser will move to the section that contains that topics information. 
+To use this webpage, at the top right hand side are navigational links to three different concepts. When clicking on a topic, the browser will move to the section that contains that topics of information. 
 
 ![Header, navigation panel and introduction img](./assets/images/Screenshot%202023-04-06%20152045.png)
 ![Main content and aside info](./assets/images/Screenshot%202023-04-06%20152127.png)
