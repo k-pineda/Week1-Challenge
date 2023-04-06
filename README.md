@@ -1,13 +1,8 @@
-# Tips on Search Engine Reputation Management
+# Tips on Search Engine Reputation Management Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This webpage was created to provide tips and background information on search engine optimization, online reputation management and social media management. This webpage was built to give brief concise information on these topics for those interested in elevating clickthrough rates on their webpages. The tips on this webpage also offer snippets of information on lead generation, brand awareness and cost management. For those starting their online business this webpage introduces key concepts in maximizing their online presence in search engines like Google or Bing. During the making of this project, I learned the importance of accessibility and being concious of assuring everyone can understand the contents on the webpage. 
 
 ## Usage
 
